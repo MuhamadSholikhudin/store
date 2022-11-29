@@ -1,0 +1,25 @@
+.navbottom {
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    width: 100%;
+}
+
+
+.navbottom div {
+    margin: 10px 20px;
+    width: 30%;
+}
+
+.icon-category{
+    display: flex;
+    flex-direction: row;
+    /* font-size: 30px; */
+    width: 100%;
+}
+
+.icon-category div {
+    /* margin: 10px 10px; */
+    /* width: 100%; */
+    align-content: center;
+}
